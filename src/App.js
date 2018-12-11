@@ -22,7 +22,6 @@ const contacts = [
  }
 ];
 
-
 class App extends Component {
   render() {
     return (
